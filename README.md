@@ -1,5 +1,8 @@
 # Telemetry Sourcerer
 
+类似一个PcHanter的工具，可以手动找出系统中注册的过滤驱动、hook和回调等等，手动EDR工具。星很多，值得学习。
+
+
 <p align="center">
   <img src="https://www.publicdomainpictures.net/pictures/180000/nahled/wizard-with-wand.jpg" height="250" />
 </p>
